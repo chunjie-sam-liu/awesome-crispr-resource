@@ -1,0 +1,14 @@
+ls
+ll
+mkdir figs
+l
+r figs
+l
+rm figs
+mkdir imgs
+l
+cd imgs/
+l
+cd imgs/
+l
+git status
