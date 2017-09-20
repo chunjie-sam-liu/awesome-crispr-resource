@@ -12,3 +12,12 @@ l
 cd imgs/
 l
 git status
+git add -A
+git commit -m "outline picture"
+git push origin master
+ps xf
+ls
+l
+git status
+ls
+cd ../
